@@ -145,3 +145,4 @@ dmypy.json
 # sensitive user data stuff
 *.csv
 *.json
+max-analysis++/data/*.txt
