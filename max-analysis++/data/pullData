@@ -1,0 +1,3 @@
+rsync -av --progress dmarino@unicorn.cim.mcgill.ca:/home/dmarino/teleaffect_experiment/teleaffectinterface/data/* .
+
+echo "NOTE: if you are pulling fresh, remember that there are duplicates for P13 and P3 (will need to manually delete false starts for analysis)"
